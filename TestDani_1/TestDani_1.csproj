@@ -82,8 +82,8 @@
     <Reference Include="Skyline.DataMiner.Core.DataMinerSystem.Common, Version=1.1.0.2, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Skyline.DataMiner.Core.DataMinerSystem.Common.1.1.0.2\lib\net462\Skyline.DataMiner.Core.DataMinerSystem.Common.dll</HintPath>
     </Reference>
-    <Reference Include="Skyline.DataMiner.Empower.Library.Room4, Version=1.0.4.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Skyline.DataMiner.Empower.Library.Room4.1.0.4\lib\netstandard2.0\Skyline.DataMiner.Empower.Library.Room4.dll</HintPath>
+    <Reference Include="Skyline.DataMiner.Empower.Library.Room4, Version=1.0.5.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Skyline.DataMiner.Empower.Library.Room4.1.0.5\lib\netstandard2.0\Skyline.DataMiner.Empower.Library.Room4.dll</HintPath>
     </Reference>
     <Reference Include="Skyline.DataMiner.Storage.Types, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9789b1eac4cb1b12, processorArchitecture=MSIL">
       <HintPath>..\packages\Skyline.DataMiner.Files.Skyline.DataMiner.Storage.Types.10.1.11\lib\net462\Skyline.DataMiner.Storage.Types.dll</HintPath>
